@@ -8,6 +8,6 @@ This project is a modern drop in replacement for the tu-5 since you cannot get o
 
 ![The tu-5 replacement installed in the radio](tu5_installed.jpg)
 
-# To Do
+## To Do
 1) Layout a pcb that can easily be ordered (preassembled if desired) from a fab house
 2) Add RGB for 10% more performance
